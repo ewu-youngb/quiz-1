@@ -8,3 +8,52 @@ img
 		width:320px;
 
 	}
+h1 
+{
+	background: yellow;
+	border-radius: 100px;
+	line-height: 100px;
+	text-align: center;
+	height: 100px;
+	width: 100px;
+
+}
+h1:hover 
+{
+	background: blue;
+	color: red;
+	/*margin-top: 50px;*/
+	transition: background 2.5s;
+}
+h2
+{
+	background: teal;
+
+}
+
+
+h3
+{
+	background: teal;
+
+}
+
+p
+{
+	background: green;
+
+}
+
+a
+{
+	background: yellow;
+	display: block;
+	height: 100px;
+	width: 100px;
+}
+a:hover
+{
+	color: red;
+	background: green;
+
+}
